@@ -16,9 +16,8 @@
   "interests": [
     { "name": "Interactive Media" },
     { "name": "3D Graphics" },
-    { "name": "Game Design" },
-    { "name": "Software Development" },
-    { "name": "Robotics" }
+    { "name": "Robotics" },
+    { "name": "Software Development" }
   ],
   "skills": [
     {
