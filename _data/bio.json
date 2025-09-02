@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jacobpuente", "url": "http://github.com/jacobpuente" },
-      { "network": "linkedin", "username": "Jacob Puente", "url": "www.linkedin.com/in/jacob-puente-336620381" }
+      { "network": "linkedin", "username": "Jacob Puente", "url": "https://www.linkedin.com/in/jacob-puente-336620381" }
     ]
   },
   "interests": [
@@ -27,15 +27,15 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Microsoft Windows", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2025-08-25",
       "endDate": "Present",
       "courses": [
       ]
