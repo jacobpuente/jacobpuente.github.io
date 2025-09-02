@@ -38,7 +38,25 @@
       "endDate": "Present",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Natural Science Information & Computer Sciences",
+      "studyType": "A.S.",
+      "startDate": "2021",
+      "endDate": "2025",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2021",
+      "endDate": "2025",
+      "courses": [
+      ]
+    },
   ],
   "work": [
     {
