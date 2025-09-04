@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: What_is_a_Water_Sensor_9eec8b4c-56c4-4367-82a0-f7e6d4c7e8a7.jpg 
+image: /img/What_is_a_Water_Sensor_9eec8b4c-56c4-4367-82a0-f7e6d4c7e8a7.jpg
 title: "Water Level Indicator"
 date: 2025
 published: true
