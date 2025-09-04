@@ -10,4 +10,4 @@ labels:
   - Learning
 ---
 
-<img class="img-fluid" src="../img/engineering.jpg">
+<img src="../img/engineering.jpg" style="width: 100vw; height: auto;" alt="Engineering banner">
