@@ -17,9 +17,11 @@ summary: "Created at a Leeward Community College hackathon, this project uses se
   <img width="200px" src="../img/Screenshot 2025-09-03 165347.png" class="img-thumbnail" >
 </div>
 
-This proof of concept project was developed during a hackathon at Leeward Community College, where I served as the lead programmer. The goal was to improve the user experience of a water dispensing machine by providing a clear, visual indication of the water level. We achieved this by integrating a water level sensor and LED lights into the water container. When the water level falls below a set threshold (0.036 inches), the LEDs automatically turn on, signaling the user to refill the container. Once the water level rises above the threshold, the LEDs turn off. This system prevents both underfilling and overfilling, making the process more efficient and intuitive for users. The setup is simple, effective, and easy to implement.
+The Water Level Indicator project was a proof-of-concept submission for a hackathon during my Spring 2025 semester at Leeward Community College. During the initial drafting stages, I was voted in as the lead programmer because I had the most coding experience on the team. The goal of the project was to improve the user experience of a water dispensing machine by providing a clear, visual indication of the water level. 
 
-Here is the code that shows how we read values from the water sensor:
+Of course, installing such a device was outside the scope of the 1-week timeframe, so it was decided that it would be submitted as a proof-of-concept instead of a prototype. To demonstrate the validity of our project, we configured the water sensor to detect when the water level fell below a threshold of 0.036 inches. Once this event occurs, the LEDs in the computer motherboard automatically turn on, signaling the user to refill the container. This LED system was designed to prevent both underfilling and overfilling by clearly alerting the user when the water level is low.
+
+Here is the code showing how the water sensor operated:
 
 ```cpp
 import time
