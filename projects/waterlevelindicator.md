@@ -9,7 +9,7 @@ labels:
   - Software
   - Hardware
   - Raspberry Pi
-summary: "Created at a Leeward Community College hackathon, this project uses sensors and LED lights to signal low water levels in a dispensing machine for timely refills."
+summary: "Created at a Leeward Community College hackathon, this project aims to improve the user experience of a water dispensing machine. "
 ---
 
 <div class="text-center p-4">
