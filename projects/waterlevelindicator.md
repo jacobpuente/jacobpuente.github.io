@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/12467b9de78f16b492a0205cb1a538782106664a.jpg
+image: What_is_a_Water_Sensor_9eec8b4c-56c4-4367-82a0-f7e6d4c7e8a7.jpg
 title: "Water Level Indicator"
 date: 2025
 published: true
@@ -13,7 +13,7 @@ summary: "Created at a Leeward Community College hackathon, this project uses se
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/What_is_a_Water_Sensor_9eec8b4c-56c4-4367-82a0-f7e6d4c7e8a7.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/Screenshot 2025-09-03 165311.png" class="img-thumbnail" >
   <img width="200px" src="../img/Screenshot 2025-09-03 165347.png" class="img-thumbnail" >
 </div>
