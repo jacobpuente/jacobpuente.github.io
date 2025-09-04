@@ -3,13 +3,11 @@ layout: essay
 type: essay
 title: "Reflections on ICS 314"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-09-04
 published: true
 labels:
-  - Engineering
+  - Reflections
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 ## Musings on WODs
 
