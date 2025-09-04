@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/s-l1200.jpg
+image: <img src="../img/s-l1200.jpg" style="width: 655px; height: 655px;" alt="Water Level Indicator Image" />
 title: "Water Level Indicator"
 date: 2025
 published: true
