@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/s-l1200.jpg
+image: ../img/s-l1200.jpg
 title: "Water Level Indicator"
 date: 2025
 published: true
