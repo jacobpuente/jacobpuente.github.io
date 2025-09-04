@@ -14,7 +14,8 @@ When discussing any topic, it is essential to consider that the biases and exper
 
 ## Exploring TypeScript, JavaScript, C++, and C
 
-<img width="840px" class="rounded float-end ps-4" src="../img/c-vs-javascript-banner@2x.jpg">When compared to other programming languages, JavaScript is the most similar. However, this is to be expected simply because TypeScript is a superset of JavaScript. A far more fitting comparison would be TypeScript to C++. Both add object-oriented features and type checking while maintaining backwards compatibility with their respective baseline languages. However, it is not a perfect analogy, since C++ is a separate language from C and not merely a superset, unlike TypeScript, which is a superset of JavaScript.
+<img width="300px" class="rounded float-end ps-4" src="../img/c-vs-javascript-banner@2x.jpg">
+When compared to other programming languages, JavaScript is the most similar. However, this is to be expected simply because TypeScript is a superset of JavaScript. A far more fitting comparison would be TypeScript to C++. Both add object-oriented features and type checking while maintaining backwards compatibility with their respective baseline languages. However, it is not a perfect analogy, since C++ is a separate language from C and not merely a superset, unlike TypeScript, which is a superset of JavaScript.
 
 <div style="clear: both;"></div>
 
